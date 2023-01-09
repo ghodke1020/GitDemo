@@ -49,5 +49,12 @@ public class LoginPage {
 		s.assertEquals(Login_Error.isDisplayed(), false);
 		
 	}
+	
+	public void gitexample()
+	{
+				
+		System.out.println("this is for the git tutorial");
+		
+	}
 
 }
